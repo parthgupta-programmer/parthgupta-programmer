@@ -7,9 +7,13 @@ B.Tech Student | Computer Science • Passionate about Data Science & AI
 ## 🎓 About Me
 
 🏫 Studying **B.Tech (Computer Science)** at **ABES Engineering Collge, Ghaziabad, India**
+
 🎯 Interested in **Data Science, Artificial Intelligence & Python**
+
 💼 Currently working on **Machine Learning and Data Science projects**
+
 🚀 Passionate about **learning technology and building useful projects**
+
 🌍 Based in **Ghaziabad, India**
 
 ---
